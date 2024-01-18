@@ -1,0 +1,1 @@
+model.save("E:\MODEL/mask_detector.model", save_format="h5")
