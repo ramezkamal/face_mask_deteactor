@@ -1,0 +1,1 @@
+An artificial intelligence model trained in deep learning techniques, as well as machine learning and computer vision, to determine the difference between people wearing masks and vice versa, and this will help in hospitals, and I have applied it to the Verivision company.
